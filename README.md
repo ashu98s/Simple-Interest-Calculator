@@ -2,8 +2,8 @@
 
 Simple Interest Calculator Application
 
-# User Interface 
-
+## User Interface 
+![SICalculator](https://user-images.githubusercontent.com/36065206/133626657-6720d568-1417-4b02-a86a-e70b0de308a3.png)
 
 ## Getting Started
 
