@@ -3,6 +3,7 @@ import 'dart:ui';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
+// Entry Point of the Flutter Application
 void main() {
   runApp(MaterialApp(
     title: 'Simple Interest Calculator App',
